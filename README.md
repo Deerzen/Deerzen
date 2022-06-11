@@ -1,8 +1,8 @@
 ## 👋 Hey there, my name is Ole
-I am a German developer with intermediate python skills. I currently have three repositories on my GitHub profile.
-The first is a calculator that projects wealth growth and uses streamlit as a GUI. The second is a Client that connects to Twitch chat
+I am a German developer who primarily uses Python for whatever piques my interest. This wide-spread interest in different topics and application scenarios is reflected in the repositories on my GitHub profile.
+The first repo is a calculator that projects wealth growth and uses streamlit as a GUI. The second is a Client that connects to Twitch chat
 and is able to analyse the current sentiment in realtime and can visualize the data.
-The third is a private repository for a 2D pixel survival game that is being developed with the Godot engine and GDScript.
+The third is a private repository for a 2D pixel survival game that is being developed with the Godot engine and GDScript. I also made a simple 2D game with Pygame which was my first bigger project many years ago.
 Beyond these projects I am currently developing an interface that enables people to easily communicate with OpenAI via voice. 
 
 ### 🐍 Looking to improve my Python skills in collaborative projects

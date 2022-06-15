@@ -11,5 +11,5 @@ This is why I am looking for opportunities to collaborate or contribute to inter
 is the best way to learn and improve my skills.
 
 ### 🔗 Let's connect 
-If you are looking for a developer with intermediate python skills and who is interested in working on exciting projects,
+If you are looking for a developer who is interested in working on exciting projects,
 then please contact me. I am confident that I can be a valuable asset to your team.

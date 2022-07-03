@@ -13,3 +13,7 @@ is the best way to learn and improve my skills.
 ### 🔗 Let's connect 
 If you are looking for a developer who is interested in working on exciting projects,
 then please contact me. I am confident that I can be a valuable asset to your team.
+
+<a href="https://github.com/deerzen/deerzen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deerzen&count_private=true&show_icons=true&theme=github_dark&line_height=24&title_color=88c0d0&bg_color=2e3440&icon_color=a3be8c&border_color=d8dee9" />
+</a>

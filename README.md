@@ -13,10 +13,10 @@ is the best way to learn and improve my skills.
 
 <p>
 <br />
-<img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-<img align="left" alt="Godot" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
-<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
 <img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="Godot" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
+<img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
 <img align="left" alt="Streamlit" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" />
 <img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
 <img align="left" alt="MongoDB" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />

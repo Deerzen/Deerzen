@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is Ole and I am a German developer with a wide range of interests and skills. My primary programming language is Python, and I have experience using tools such as Godot, Visual Studio Code, Git, Streamlit, Pandas, and MongoDB.
+Hi, my name is Ole and I am a German developer with a wide range of interests and skills. My primary programming language is Python, and I have experience using tools such as Django, PostgreSQL, Godot, Git, Streamlit and Pandas.
 
 I have primarily worked on data-driven applications and video game production, but I am also interested in exploring web development and databases. In addition to my general Python skills, I have gained experience with HTML, Bootstrap, JavaScript, and CSS through a solo Django project where I created an online dictionary and community hub for Twitch emotes and their meanings.
 
@@ -11,7 +11,7 @@ I am always looking for opportunities to learn and improve my skills, and I am o
 * Python development
 * Data analysis and visualization
 * Video game production
-* Web development (HTML, CSS, JavaScript, Bootstrap)
+* Web development (HTML, CSS, Django, Bootstrap)
 * Databases
 
 ## Contact

@@ -16,7 +16,7 @@ I am always looking for opportunities to learn and improve my skills, and I am o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,django,figma,github,godot,html,js,linux,postgres,py,raspberrypi,vscode" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,django,figma,github,godot,html,js,linux,postgres,py,raspberrypi,vscode" />
   </a>
 </p>
 

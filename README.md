@@ -24,6 +24,4 @@ I am always looking for opportunities to learn and improve my skills, and I am o
 
 If you are looking for a developer to join your project, please don't hesitate to reach out to me. I am confident that I can contribute valuable skills and ideas to your team. Let's connect and see what we can create together!
 
-<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=deerzen&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
